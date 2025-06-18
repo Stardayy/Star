@@ -17,7 +17,7 @@ const int MAXN = (int)1e5 + 4;
 
 void Solve()
 {
-
+    cout << "hi";
 }
 
 signed main()
